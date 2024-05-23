@@ -12,3 +12,8 @@
 python3 task2.py --stream
 
 ```
+## Train YOLOv8 Model
+### Dataset
++ [download URL](https://app.roboflow.com/ds/zUYJJ0RrvO?key=PFezBSueDY)
+### Train and Export code
++ [train&export.ipynb](https://github.com/JiyongBoo/Embedded-system/blob/master/Modeltrain/train%26export.ipynb)
